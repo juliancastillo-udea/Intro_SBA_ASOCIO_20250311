@@ -42,4 +42,4 @@
 </p>
 </div>
 
-<img alt="ASOCIO_Tutorial"  src="[https://raw.githubusercontent.com/juliancastillo-udea/Intro_SBA_ASOCIO_20250311/refs/heads/main/images/Logo_ASOCIO.jpg](https://raw.githubusercontent.com/juliancastillo-udea/Intro_SBA_ASOCIO_20250311/refs/heads/main/images/Tutorial_ASOCIO_Sim_Basada_en_Agentes.png)" hspace="0px" vspace="0px">
+<img alt="ASOCIO_Tutorial"  src="https://raw.githubusercontent.com/juliancastillo-udea/Intro_SBA_ASOCIO_20250311/refs/heads/main/images/Tutorial_ASOCIO_Sim_Basada_en_Agentes.png" hspace="0px" vspace="0px">
