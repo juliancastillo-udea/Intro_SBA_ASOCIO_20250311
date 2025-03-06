@@ -10,7 +10,7 @@
                 <h1><b>Una aproximación con ejemplos</b></h1>
             </td>
             <td rowspan="2">
-                <img alt="ASOCIO" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/Intro_SBA_ASOCIO_20250311/refs/heads/main/images/Logo_ASOCIO.jpg" hspace="0px" vspace="0px">
+                <img alt="ASOCIO" height="150px" src="https://raw.githubusercontent.com/juliancastillo-udea/Intro_SBA_ASOCIO_20250311/refs/heads/main/images/Logo_ASOCIO.jpg" hspace="0px" vspace="0px">
             </td>
         </tr>
     </thead>
