@@ -38,7 +38,9 @@
 <div>
 <p>
 <b>Imagenes con derechos de autor</b>: Las imagenes detallas a continuación fueron tomadas de la url = https://mathworld.wolfram.com/topics/CellularAutomata.html
-  * ElementaryCARules_900.svg
-  * ElementaryCA_850.svg
+<ul>
+    <li>ElementaryCARules_900.svg</li>
+    <li>ElementaryCA_850.svg</li>
+</ul>
 </p>
 </div>
