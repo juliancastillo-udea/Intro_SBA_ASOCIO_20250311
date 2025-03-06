@@ -35,9 +35,9 @@
 <a href="mailto:jandres.castillo@udea.edu.co"> ✉ Julian Andres Castillo Grisales </a>
 <h3> <b> Ingeniero de Sistemas | Magíster en Ingeniería</b> </h3>
 </div>
-
+<br>
 <div>
 <p>
-Resumen: Esta conferencia busca continuar con la "Serie de Tutoriales en Simulación" y abordaremos en esta oportunidad el campo de la Simulación Basada en Agentes (SBA) Parte 1.  Comprende la presentación de lo que es SBA y los tipos de problemas que se pueden abordar en áreas como la economía, las ciencias sociales, la biología y otras. Se ilustrará con un ejemplo de modelamiento de un autómata celular conocido, realizado en software libre. Posteriormente, se realizará una comparación entre un modelo físico y su replicación empleando agentes (autómata celular). También se darán los lineamientos necesarios para la adecuada comprensión de la parte dos. Se recomienda tener instalado el Software NetLogo en caso de querer seguir el tutorial en tiempo real: <a href="https://ccl.northwestern.edu/netlogo/">
+<b>Resumen</b>: Esta conferencia busca continuar con la "Serie de Tutoriales en Simulación" y abordaremos en esta oportunidad el campo de la Simulación Basada en Agentes (SBA) Parte 1.  Comprende la presentación de lo que es SBA y los tipos de problemas que se pueden abordar en áreas como la economía, las ciencias sociales, la biología y otras. Se ilustrará con un ejemplo de modelamiento de un autómata celular conocido, realizado en software libre. Posteriormente, se realizará una comparación entre un modelo físico y su replicación empleando agentes (autómata celular). También se darán los lineamientos necesarios para la adecuada comprensión de la parte dos. Se recomienda tener instalado el Software NetLogo en caso de querer seguir el tutorial en tiempo real: <a href="https://ccl.northwestern.edu/netlogo/">
 </p>
 </div>
