@@ -1,30 +1,33 @@
 <div>
-<table>
-    <thead align="center">
+<table style="width:100%; margin:0 auto; text-align:center; border-collapse: collapse;">
+  <tr>
+    <!-- Columna izquierda: Logos UdeA y ASOCIO en una tabla anidada -->
+    <td rowspan="2" style="vertical-align: middle;">
+      <table style="margin:0 auto; border-collapse: collapse;">
         <tr>
-            <td rowspan="3">
-                <img alt="UdeA" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/Escudo-UdeA.svg" hspace="10px" vspace="0px">
-            </td>
-            <td>
-                <h1><b> </b></h1>
-            </td>
-            <td rowspan="3">
-                <img alt="ASOCIO" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/Intro_SBA_ASOCIO_20250311/refs/heads/main/images/Logo_ASOCIO.jpg" hspace="0px" vspace="0px">
-            </td>
+          <td style="padding: 10px;">
+            <img src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/Escudo-UdeA.svg" alt="UdeA" height="200">
+          </td>
+          <td style="padding: 10px;">
+            <img src="https://raw.githubusercontent.com/juliancastillo-udea/Intro_SBA_ASOCIO_20250311/refs/heads/main/images/Logo_ASOCIO.jpg" alt="ASOCIO" height="200">
+          </td>
         </tr>
-        <tr>
-            <td>
-                <h1><b>Tutorial de Simulación Basada en Agentes - Parte 1</b></h1>
-                <h1><b>Una aproximación con ejemplos</b></h1>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img alt="I&S" height="135px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/IS.png" hspace="10px" vspace="0px">
-            </td>
-        </tr>
-    </thead>
+      </table>
+    </td>
+    <!-- Columna derecha: Título -->
+    <td style="vertical-align: middle;">
+      <h1>Tutorial de Simulación Basada en Agentes - Parte 1</h1>
+      <h2>Una aproximación con ejemplos</h2>
+    </td>
+  </tr>
+  <!-- Fila inferior de la columna derecha: imagen I&S -->
+  <tr>
+    <td style="vertical-align: middle;">
+      <img src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/IS.png" alt="I&S" height="135">
+    </td>
+  </tr>
 </table>
+
 
 </div>
 
