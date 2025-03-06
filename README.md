@@ -13,9 +13,6 @@
                 <img alt="ASOCIO" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/Intro_SBA_ASOCIO_20250311/refs/heads/main/images/Logo_ASOCIO.jpg" hspace="0px" vspace="0px">
             </td>
         </tr>
-        <tr>
-            <img alt="I&S" height="135px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/IS.png" hspace="10px" vspace="0px">
-        </tr>
     </thead>
 </table>
 
