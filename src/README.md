@@ -30,16 +30,6 @@
 </p>
 </div>
 
-<div align="right">
-<h1><b>Por: Yony Fernando Ceballos.</b></h1>
-<a href="mailto:yony.ceballos@udea.edu.co">✉ Yony Fernando Ceballos</a>
-<h3><b>Ingeniero de Sistemas | Doctor en Ingeniería</b></h3>
-</div>
-<div align="right">
-<h1><b>Por: Julián Andrés Castillo G.</b></h1>
-<a href="mailto:jandres.castillo@udea.edu.co">✉ Julian Andres Castillo Grisales</a>
-<h3><b>Ingeniero de Sistemas | Magíster en Ingeniería</b></h3>
-</div>
 <br>
 <div>
 <p>
