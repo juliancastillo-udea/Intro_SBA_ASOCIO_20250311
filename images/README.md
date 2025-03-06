@@ -37,7 +37,7 @@
 <br><br><br><br>
 <div>
 <p>
-<b>Imagenes con derechos de autor</b>: Las imagenes detallas a continuación fueron tomadas de la url = https://mathworld.wolfram.com/topics/CellularAutomata.html
+<b>Imagenes con derechos de autor</b>: Las imagenes detallas a continuación fueron tomadas de la url = https://mathworld.wolfram.com/topics/CellularAutomata.html <br>
 <ul>
     <li>ElementaryCARules_900.svg</li>
     <li>ElementaryCA_850.svg</li>
