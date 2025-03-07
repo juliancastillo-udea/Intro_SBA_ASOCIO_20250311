@@ -28,6 +28,7 @@
 <img alt="NC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/sa.xlarge.png" align="left" hspace="0px" vspace="0px">
 <img alt="SA" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png" align="left" hspace="0px" vspace="0px">
 </p>
+<br><br>
 </div>
 
 <div align="right">
