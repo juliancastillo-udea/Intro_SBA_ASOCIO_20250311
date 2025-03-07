@@ -1,0 +1,9 @@
+matplotlib
+matplotlib-inline
+numpy
+pandas
+pillow
+pygame
+qrcode
+requests
+tqdm
